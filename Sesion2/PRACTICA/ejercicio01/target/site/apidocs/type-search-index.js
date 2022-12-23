@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.ejercicio01","l":"funda_ejemplo01"},{"p":"com.mycompany.ejercicio01","l":"IntegerPrimitives"},{"p":"com.mycompany.ejercicio01","l":"RealPrimitives"}];updateSearchResults();
